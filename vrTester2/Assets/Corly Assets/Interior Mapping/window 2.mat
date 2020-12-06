@@ -27,4 +27,4 @@ Material:
     - Vector1_F0C98A14: 1000
     m_Colors:
     - Color_B0E38282: {r: 1, g: 0.50664544, b: 0, a: 0}
-    - Vector2_8BAF4FF7: {r: 50, g: 1000, b: 0, a: 0}
+    - Vector2_8BAF4FF7: {r: 100, g: 1000, b: 0, a: 0}
